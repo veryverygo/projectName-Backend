@@ -12,6 +12,7 @@ public class UserCreateRequest {
     private String address;
     private String gender;
     private int age;
+    private int height;  // 방금 생긴 코드
 
 }
 
